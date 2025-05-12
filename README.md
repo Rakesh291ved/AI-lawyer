@@ -37,25 +37,12 @@ Login Page	Legal Advice Interface
 🔐 Firebase Setup
 Set up Firebase project and add the following to your .env or directly inside app.py:
 
-python
-Copy
-Edit
-firebase_config = {
-    "apiKey": "...",
-    "authDomain": "...",
-    "databaseURL": "...",
-    "projectId": "...",
-    "storageBucket": "...",
-    "messagingSenderId": "...",
-    "appId": "...",
-}
-⚙️ Run Locally
-Clone the repo
+p
 
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/ai-lawyer.git
+git clone https://github.com/Rakesh291ved/AI-lawyer.git
 cd ai-lawyer
 Install dependencies
 
